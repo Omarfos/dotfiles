@@ -1,0 +1,1 @@
+/Users/omar/.config/nvim/init.vim
